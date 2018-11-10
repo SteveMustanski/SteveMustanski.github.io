@@ -1,3 +1,11 @@
+ .jumbotron{
+  background-image: linear-gradient(#17a2b8, transparent 99%),
+  linear-gradient(20deg,#17a2b8, transparent), url(img/blue-internet-technology-background-header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
